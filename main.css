@@ -161,6 +161,7 @@ nav .content .links{
 
 .home .content{
     max-width: 60rem;
+    text-align: center;
 }
 
 .home .content h3{
@@ -534,7 +535,7 @@ nav .content .links{
     height: 50px;
     width: 50px;
     border-radius: 20%;
-    background: #21dbf38b;
+    background: #21daf3;
 }
 .galeria .mas-img img{
     display: inline;
@@ -1526,4 +1527,5 @@ nav .content .links{
     .accordion{
         width: 80%;
     }
+
 }
