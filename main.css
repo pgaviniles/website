@@ -1012,6 +1012,27 @@ nav .content .links{
 #slide83:checked ~ .bullets label:nth-child(3){
     background: #ffca28;
 }
+#slide84:checked ~ .slides .inner{
+    margin-left: 0;
+}
+#slide85:checked ~ .slides .inner{
+    margin-left: -100%;
+}
+#slide84:checked ~ .bullets label:nth-child(1),
+#slide85:checked ~ .bullets label:nth-child(2){
+    background: #ffca28;
+}
+
+#slide86:checked ~ .slides .inner{
+    margin-left: 0;
+}
+#slide87:checked ~ .slides .inner{
+    margin-left: -100%;
+}
+#slide86:checked ~ .bullets label:nth-child(1),
+#slide87:checked ~ .bullets label:nth-child(2){
+    background: #ffca28;
+}
 /*viniles*/
 .categoria{
     text-align: center;
@@ -1529,3 +1550,4 @@ nav .content .links{
     }
 
 }
+
