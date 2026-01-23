@@ -1033,6 +1033,16 @@ nav .content .links{
 #slide87:checked ~ .bullets label:nth-child(2){
     background: #ffca28;
 }
+#slide88:checked ~ .slides .inner{
+    margin-left: 0;
+}
+#slide89:checked ~ .slides .inner{
+    margin-left: -100%;
+}
+#slide88:checked ~ .bullets label:nth-child(1),
+#slide89:checked ~ .bullets label:nth-child(2){
+    background: #ffca28;
+}
 /*viniles*/
 .categoria{
     text-align: center;
@@ -1550,4 +1560,5 @@ nav .content .links{
     }
 
 }
+
 
